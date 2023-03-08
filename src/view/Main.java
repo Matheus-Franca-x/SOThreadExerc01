@@ -7,13 +7,11 @@ public class Main {
 	{
 		NumThread m = new NumThread();
 		
-		
-			m.TID();
-			m.TID();
-			m.TID();
-			m.TID();
-			m.TID();
-		
+		m.TID();
+		m.TID();
+		m.TID();
+		m.TID();
+		m.TID();		
 	}
 	
 }
